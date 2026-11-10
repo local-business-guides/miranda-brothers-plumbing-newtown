@@ -20,6 +20,9 @@
 - [Emergency Plumber Newtown for Urgent Plumbing Needs](https://local-business-guides.github.io/miranda-brothers-plumbing-newtown/emergency-plumber-newtown/): Emergency Plumber Newtown help is available any time, day or night, so you can explain what's happening and ask what to do next. Call Miranda Brothers Plumbin
 - [Near Me Plumber in Newtown, PA](https://local-business-guides.github.io/miranda-brothers-plumbing-newtown/near-me-plumber/): Need a Near Me Plumber in Newtown, PA? Talk through your plumbing concern any time, day or night. Call Miranda Brothers Plumbing today for guidance.
 
+## Newsroom
+- [Miranda Brothers Plumbing Shares New Guide on Plumber In Newton PA](https://local-business-guides.github.io/miranda-brothers-plumbing-newtown/news/2026-11-10-miranda-brothers-plumbing-shares-new-guide-on/): Miranda Brothers Plumbing published a guide on Plumber In Newton PA this week, with related video, podcast and audio versions. (2026-11-10)
+
 ## Pages
 - [Plumber In Newton PA in Newtown](https://local-business-guides.github.io/miranda-brothers-plumbing-newtown/): Get plumbing help for your Newtown property with clear communication from Miranda Brothers Plumbing. Call +1267-651-1533.
 - [About Miranda Brothers Plumbing](https://local-business-guides.github.io/miranda-brothers-plumbing-newtown/about/): About Miranda Brothers Plumbing, Newtown.
@@ -27,4 +30,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/miranda-brothers-plumbing-newtown/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/miranda-brothers-plumbing-newtown/news/rss.xml)
 - [Main resource site](https://miranda-brothers-plumbing-newtown.localbusinesses1.chatgpt.site)
